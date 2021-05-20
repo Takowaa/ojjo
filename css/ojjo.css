@@ -5,7 +5,7 @@
 }
 
 .menu-img {
-    background: url(/bgc.jpeg) no-repeat center/cover;
+    background: url(../img/bgc.jpeg) no-repeat center/cover;
     height: 100vh;
 }
 
@@ -35,7 +35,7 @@
 .poisk {
     background: none;
     border: none;
-    background-image: url(/lupa.png);
+    background-image: url(../img/lupa.png);
     background-repeat: no-repeat;
     padding-left: 30px;
     width: 45px;
@@ -146,38 +146,38 @@
 }
 
 .img-cat1 {
-    background: url(/ring.jpeg);
+    background: url(../img/ring.jpeg);
     width: 350px;
     height: 280px;
 }
 
 .img-cat2 {
-    background: url(/sergi.jpeg);
+    background: url(../img/sergi.jpeg);
     width: 350px;
     height: 280px;
 }
 
 .img-cat3 {
-    background: url(/podveski.png);
+    background: url(../img/podveski.png);
     width: 350px;
     height: 280px;
 }
 
 .img-cat4 {
-    background: url(/zapon.jpeg);
+    background: url(../img/zapon.jpeg);
     width: 350px;
     height: 280px;
 }
 
 .img-cat5 {
-    background: url(/brace.jpeg);
+    background: url(../img/brace.jpeg);
     width: 350px;
     height: 280px;
     margin-bottom: 120px;
 }
 
 .img-cat6 {
-    background: url(/whatch.jpeg);
+    background: url(../img/whatch.jpeg);
     width: 350px;
     height: 280px;
 }
@@ -194,7 +194,7 @@
 }
 
 .rectan {
-    background: url(/Rectangle.png);
+    background: url(../img/Rectangle.png);
 }
 
 .text-center {
@@ -245,19 +245,19 @@
 }
 
 .present1 {
-    background: url(/present.jpeg);
+    background: url(../img/present.jpeg);
     width: 350px;
     height: 370px;
 }
 
 .present2 {
-    background: url(/present2.jpeg);
+    background: url(../img/present2.jpeg);
     width: 350px;
     height: 370px;
 }
 
 .present3 {
-    background: url(/present3.jpeg);
+    background: url(../img/present3.jpeg);
     width: 350px;
     height: 370px;
 }
